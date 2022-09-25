@@ -15,3 +15,28 @@ USER_ID:
   - "78a7521d6d4c9e670653a686a137f6b8"
 
 TEMPLATE_ID: "F5qzjs6fQ1bw1JIZtxJmP4-9DKt2muJxLzkQ6PdfW6Y"
+今天是 {{ date.数据 }} {{ week_day.数据 }}
+
+今天天气：{{ 天气.数据 }}
+
+湿度：{{ 湿度.数据 }}
+
+风向风力：{{ wind.数据 }}
+
+空气指数：{{ air_data.数据 }}
+
+空气质量：{{ air_quality.数据 }}
+
+当前温度：{{ Temperature.数据 }}
+
+最低气温：{{ Lowest.数据 }}
+
+最高气温：{{ 最高.数据 }}
+
+我们已经相恋 {{ love_days.数据 }} 天啦
+
+距离你的生日还有：{{ birthday_left.数据 }} 天
+
+距离我的生日还有：{{ birthday_left_1.DATA }} 天
+
+{{ 单词。数据 }}
