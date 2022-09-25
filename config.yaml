@@ -2,11 +2,11 @@
 
 DAILY_TIME: "14:00" # 每日定时发送时间。该时间为系统时间，如果当前系统时间不为北京时间需要自行进行换算
 
-START_DATE: "2020-05-20" # 纪念日
+START_DATE: "2021-04-26" # 纪念日
 CITY: "呼和哈特"
 
 BIRTHDAY:
-  - "05-21"
+  - "11-07"
 
 APP_ID: "wxd0d4e5d2b36bb4fa"
 APP_SECRET: "78a7521d6d4c9e670653a686a137f6b8"
